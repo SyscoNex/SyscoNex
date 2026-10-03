@@ -18,7 +18,7 @@
 <br>
 <br>
 <p>🌍 Website: sysconex.com</p>
-<p>📧 Contact Us: sysconex.solutions@gmail.com</p>
+<p>📧 Contact Us: info@sysconex.com</p>
 <br><br>
 <!-- profile view-->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sysconex&label=Profile%20views&color=0e75b6&style=flat" alt="sysconex" /></p>
